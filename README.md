@@ -5,6 +5,6 @@
 Github Repository housing PHP+HTML Code developed for the Rimuru Discord bot personal project.
 
 Website is hosted at : 
-[https://rimurudev.000webhostapp.com](url)
+https://rimurudev.000webhostapp.com
 or
 [rimurudiscbot.xyz](url)
